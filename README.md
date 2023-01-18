@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Bem-vindo(a) ao meu Perfil 😁
 
  <div>
    <a href="https://github.com/Brutaoo">
@@ -15,6 +15,6 @@
  
 <div> 
  
-  ![Snake animation](https://github.com/Brutaoo/IsmaelSilva/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Brutaoo/Brutaoo/blob/output/github-contribution-grid-snake.svg)
 
 </div>
